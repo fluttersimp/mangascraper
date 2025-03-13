@@ -1,0 +1,5 @@
+localscrape/bin/Debug/net9.0/.env
+*/bin/
+*/obj/
+.env
+.vs
